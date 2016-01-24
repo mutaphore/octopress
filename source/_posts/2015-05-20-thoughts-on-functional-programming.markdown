@@ -14,8 +14,9 @@ This past semester my Programming Languages class exposed us to several function
 What is FP (Functional Programming)?
 =====
 A programming language is the medium in which we communicate with the computer and instruct it to do certain tasks. There are many ways to write a program, just as there are many ways to write an essay. Functional programming is, on very simple terms, a style of writing a program. The other major way is the imperative style, which is the more easily understood and most widely used (which we will not talk about here). The difference between imperative and functional programming boils down to the following:
-* Imperative - tell the computer how to do something
-* Functional - tell the computer definition of something
+
+- Imperative - tell the computer how to do something
+- Functional - tell the computer definition of something
 
 So imperative style is the “How” and functional style is the “What” of doing something. In the classical problem to calculate the factorial of number, with an imperative style, the pseudocode would be following:
 
